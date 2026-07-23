@@ -1,2 +1,2 @@
-#### Hey I'm [Shreyh](https://shreyh.vercel.app/) 👋
-    _Learning Coding Building..._
+#### Hey I'm [Shreyh](https://shreyh.vercel.app/)
+Learning Coding Building...
